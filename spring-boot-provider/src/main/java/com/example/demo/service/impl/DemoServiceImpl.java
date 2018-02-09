@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * <pre>
- * Desc: DemoService 的provider
+ * Desc: DemoService 的provider;
  * Author:chenlu
  * Email:chenlu@ddjf.com.cn
  * Date:11:48 2018/2/8
